@@ -1,11 +1,4 @@
-### - 👋 Oi! Eu me chamo **Thiago**
-### - 👀 Estou interesado em aprender programção
-### - 🌱 O basico de programação em Java
-### - 😄 Pronomes: Ele/Dele
-
-<!---
-
-Espero que você tenha um bom dia :)
-I hope you have a nice day :)
-
---->
+### Está conta é feita para usos estudantis!
+### Me chamo Thiago, estou aprendendo programção em um level extremamente básico!
+### Ele/Dele
+### tenha um bom dia!!
